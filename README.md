@@ -1,1 +1,2 @@
 # WordGameApp
+Worked in a team to create a program that uses test-driven development. This program will pick a random word from the file, scramble it, and present to the user the scrambled word. The user must unscramble the word. The user earns partial points for each guess. If the user enters a vowel in the correct spot they earn one point. If the user enters a consonant in the correct spot they earn two points. A URL is used to determine if the spelling of the word is correct. 
